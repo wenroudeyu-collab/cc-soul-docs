@@ -1,0 +1,16 @@
+{
+  "specVersion": "0.4",
+  "name": "cc-soul",
+  "displayName": "cc-soul — AI Cognitive Architecture",
+  "version": "2.9.2",
+  "description": "Persistent memory, adaptive personality, emotional awareness, self-evolution for OpenClaw",
+  "license": "MIT",
+  "tags": ["memory", "personality", "cognitive", "evolution", "emotion"],
+  "compatibility": ["openclaw"],
+  "files": {
+    "soul": "SOUL.md",
+    "identity": "IDENTITY.md",
+    "style": "STYLE.md",
+    "heartbeat": "HEARTBEAT.md"
+  }
+}
